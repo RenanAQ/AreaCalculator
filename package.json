@@ -1,0 +1,20 @@
+{
+  "name": "areacalculator",
+  "version": "1.0.0",
+  "description": "Training my skills with Node.js, Express, and EJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Renan Queiroz",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
